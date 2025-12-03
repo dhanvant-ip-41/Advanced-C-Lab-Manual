@@ -1,7 +1,7 @@
 # EXP NO 26 : C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 ```
 Developed by: Dhanvant Kumar V
-Reg no.  212224040070
+Reg.no: 212224040070
 ```
 ## Aim:
 To write a C program to display stack elements using linked list.
