@@ -2,7 +2,7 @@
 
 ```
 Developed by: Dhanvant Kumar V
-Reg no.  212224040070
+Reg.no: 212224040070
 ```
 ## Aim:
 
